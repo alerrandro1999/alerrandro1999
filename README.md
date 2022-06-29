@@ -44,8 +44,6 @@
 
 ###
 
-<br clear="both">
 
-<img href="https://raw.githubusercontent.com/alerrandro1999/alerrandro1999/blob/output/snake.svg" alt="Snake animation" />
 
 ###

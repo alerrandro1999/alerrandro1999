@@ -1,5 +1,34 @@
 <h2 align="left">Olá, me chamo Alerrandro Borges</h2>
 
+<p> - Cursando Análise e desenvolvimento de sistemas</p>
+
+<p> - Desenvolvedor Back-End</p>
+
+<!-- <p> - Estudando a stack PHP</p> -->
+<h2>Habilidades na Stack PHP</h2>
+<p>PHP</p>
+<p>Laravel</p>
+<p>Slim Framework</p>
+<p>PSRs</p>
+<p>PHPUnit</p>
+<p>Composer</p>
+
+<h2>Padrões de projeto</h2>
+<p>SOLID</p>
+<p>Clean Code</p>
+<p>Teste Unitário</p>
+
+<h2>Banco de Dados</h2>
+<p>MYSQL</p>
+<p>SQL SERVER</p>
+<p>SQL LITE</p>
+
+<h2>Repositório</h2>
+<p>Git</p>
+<p>GitHub</p>
+<p>GitLab</p>
+<p>BitBucket</p>
+
 ###
 
 <div align="center">
@@ -9,7 +38,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" width="42" alt="php logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" width="42" alt="laravel logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" width="42" alt="vuejs logo"  />
@@ -27,7 +56,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="alerrandrokaton@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>

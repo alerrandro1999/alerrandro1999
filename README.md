@@ -22,7 +22,7 @@
 - SQL SERVER
 - SQL LITE
 
-## Repositório
+## Ferramentas de versionamento
 - Git
 - GitHub
 - GitLab

@@ -1,35 +1,32 @@
-<h2 align="left">Olá, me chamo Alerrandro Borges</h2>
+# Olá, me chamo Alerrandro Borges
 
-<p> - Cursando Análise e desenvolvimento de sistemas</p>
+- Cursando Análise e desenvolvimento de sistemas
 
-<p> - Desenvolvedor Back-End</p>
+- Desenvolvedor Back-End
 
-<!-- <p> - Estudando a stack PHP</p> -->
-<h2>Habilidades na Stack PHP</h2>
-<p>PHP</p>
-<p>Laravel</p>
-<p>Slim Framework</p>
-<p>PSRs</p>
-<p>PHPUnit</p>
-<p>Composer</p>
+## Habilidades na Stack PHP
+- PHP 
+- Laravel
+- Slim Framework
+- PSRs
+- PHPUnit
+- Composer
 
-<h2>Padrões de projeto</h2>
-<p>SOLID</p>
-<p>Clean Code</p>
-<p>Teste Unitário</p>
+## Padrões de projeto
+- SOLID
+- Clean Code
+- Teste Unitário
 
-<h2>Banco de Dados</h2>
-<p>MYSQL</p>
-<p>SQL SERVER</p>
-<p>SQL LITE</p>
+## Banco de Dados
+- MYSQL
+- SQL SERVER
+- SQL LITE
 
-<h2>Repositório</h2>
-<p>Git</p>
-<p>GitHub</p>
-<p>GitLab</p>
-<p>BitBucket</p>
-
-###
+## Repositório
+- Git
+- GitHub
+- GitLab
+- BitBucket
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=alerrandro1999" height="150" alt="stats graph"  />
@@ -65,8 +62,3 @@
   </a>
 </div>
 
-###
-
-
-
-###

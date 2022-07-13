@@ -20,7 +20,7 @@
 ## Banco de Dados
 - MYSQL
 - SQL SERVER
-- SQL LITE
+- SQLite
 
 ## Ferramentas de versionamento
 - Git

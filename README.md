@@ -1,4 +1,4 @@
-# Olá, me chamo Alerrandro Borges
+# Olá, me chamo Alerrandro Borges de Almeida
 
 - Cursando Análise e desenvolvimento de sistemas
 
@@ -12,14 +12,23 @@
 - PHPUnit
 - Composer
 
+## Habilidades no Front-End
+- HTML5
+- CSS3
+- Javascript
+- Vue.js
+- Bootstrap
+- jQuery
+
 ## Padrões de projeto
 - SOLID
 - Clean Code
-- Teste Unitário
+- Testes Unitários
+- TDD
 
 ## Banco de Dados
-- MYSQL
-- SQL SERVER
+- MySQL
+- SQL Server
 - SQLite
 
 ## Ferramentas de versionamento

@@ -1,6 +1,6 @@
 # Olá, me chamo Alerrandro Borges de Almeida
 
-- Cursando Análise e desenvolvimento de sistemas
+- Cursando Análise e desenvolvimento de sistemas - 6º 
 
 - Desenvolvedor Back-End
 

@@ -8,7 +8,6 @@ Cursando análise e desenvolvimento de sistemas e tenho outros cursos sobre dese
 
 ### Habilidades 
 
-- Desenvolvedor Back-End
 
 ## Habilidades na stack PHP
 

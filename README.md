@@ -5,11 +5,7 @@ Cursando análise e desenvolvimento de sistemas e tenho outros cursos sobre dese
 ## Projetos
 - [Portfólio - Alacid Pamplona](https://www.alacidfotografia.com) - Um Portfólio para um fotografo, para demostrar seus ensaios e uma agenda para entrar em contato com ele. Tem um pequeno painel admin para que ele possa modifica a sua agenda.
 
-
-### Habilidades 
-
-
-## Habilidades na stack PHP
+## Linguagens, Frameworks, Bancos de dados, Repositórios
 
 - PHP 
 - Laravel

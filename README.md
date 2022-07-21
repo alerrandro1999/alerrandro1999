@@ -1,18 +1,20 @@
-# Olá, me chamo Alerrandro Borges de Almeida
+## Bem-vindo
+Olá, me chamo Alerrandro e sou desenvolvedor back-end atualmente estudo com mais envolvimento a stack PHP e todo o conteúdo que o cerca. Estudo padrões de desenvolvimento (Solid, Clean code, TDD, Design pattern, Testes Unitários), para alinhar minhas habilidades com os melhores padrões que o mercado solicita.
+Cursando análise e desenvolvimento de sistemas e tenho outros cursos sobre desenvolvimento.
 
-- Cursando Análise e desenvolvimento de sistemas - 6º 
+## Projetos
+- [Portfólio - Alacid Pamplona](https://www.alacidfotografia.com) - Um Portfólio para um fotografo, para demostrar seus ensaios e uma agenda para entrar em contato com ele. Tem um pequeno painel admin para que ele possa modifica a sua agenda.
 
-- Desenvolvedor Back-End
-
-## Habilidades na Stack PHP
+### Habilidades 
 - PHP 
 - Laravel
+- Symfony
 - Slim Framework
 - PSRs
 - PHPUnit
 - Composer
 
-## Habilidades no Front-End
+###
 - HTML5
 - CSS3
 - Javascript
@@ -20,31 +22,24 @@
 - Bootstrap
 - jQuery
 
-## Padrões de projeto
-- SOLID
-- Clean Code
-- Testes Unitários
-- TDD
-
-## Banco de Dados
+###
 - MySQL
 - SQL Server
 - SQLite
 
-## Ferramentas de versionamento
+###
 - Git
 - GitHub
 - GitLab
 - BitBucket
 
-<div align="center">
+
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=alerrandro1999" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=alerrandro1999" height="150" alt="languages graph"  />
-</div>
+</div> -->
 
-###
-
-<div align="center">
+<!-- <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" width="42" alt="php logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" width="42" alt="laravel logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" width="42" alt="vuejs logo"  />
@@ -61,13 +56,11 @@
 </div>
 
 ###
+ -->
 
-<div align="center">
   <a href="alerrandrokaton@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/alerrandro-borges-b45a6a1a1/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-</div>
-

@@ -4,7 +4,7 @@
 
 - Desenvolvedor Back-End
 
-## Habilidades na Stack PHP
+## Habilidades na stack PHP
 - PHP 
 - Laravel
 - Slim Framework

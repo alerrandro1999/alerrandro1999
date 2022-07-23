@@ -3,7 +3,7 @@ Olá, me chamo Alerrandro e sou desenvolvedor back-end atualmente estudo com mai
 Cursando análise e desenvolvimento de sistemas e tenho outros cursos sobre desenvolvimento.
 
 ## Projetos
-- [Portfólio - Alacid Pamplona](https://www.alacidfotografia.com) - Um Portfólio para um fotografo, para demostrar seus ensaios e uma agenda para entrar em contato com ele. Tem um pequeno painel admin para que ele possa modifica a sua agenda.
+- [Portfólio - Alacid Pamplona](https://www.alacidfotografia.com) - Um Portfólio para um fotografo, para demostrar seus ensaios e uma agenda para entrar em contato com ele. Tem um pequeno painel admin para que ele possa modificar a sua agenda.
 
 ## Habilidades: linguagens, frameworks, bancos de dados, repositórios
 

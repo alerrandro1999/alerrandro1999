@@ -14,6 +14,7 @@ Cursando análise e desenvolvimento de sistemas e tenho outros cursos sobre dese
 - PSRs
 - PHPUnit
 - Composer
+- Delphi - Pascal
 
 ###
 - HTML5
@@ -30,10 +31,10 @@ Cursando análise e desenvolvimento de sistemas e tenho outros cursos sobre dese
 
 ###
 - Git
+- Git Flow
 - GitHub
 - GitLab
 - BitBucket
-
 
 <div align="center">
 

@@ -38,7 +38,7 @@ Cursando análise e desenvolvimento de sistemas e tenho outros cursos sobre dese
 
 <div align="center">
 
-[![alerrandro1999](https://github-readme-stats.vercel.app/api/top-langs/?username=alerrandro1999&hide=html&layout=compact&theme=dark)](https://github.com/alerrandro1999)
+[![alerrandro1999](https://github-readme-stats.vercel.app/api/top-langs/?username=alerrandro1999&hide=html,css,hack,scss,batchfile,javascript&layout=compact&theme=dark&langs_count=10&exclude_repo=emissor-de-carteira)](https://github.com/alerrandro1999)
 
 </div>
 

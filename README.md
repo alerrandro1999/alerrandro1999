@@ -1,11 +1,11 @@
-## Bem-vindo
-Olá, me chamo Alerrandro e sou desenvolvedor back-end atualmente estudo com mais envolvimento a stack PHP e todo o conteúdo que o cerca. Estudo padrões de desenvolvimento (Solid, Clean code, TDD, Design pattern, Testes Unitários), para alinhar minhas habilidades com os melhores padrões que o mercado solicita.
-Cursando análise e desenvolvimento de sistemas e tenho outros cursos sobre desenvolvimento.
+## Welcome
+Hi, my name is Alerandro and I'm a backend developer, currently I study the PHP stack and all the content that is related to it with more involvement. I study development patterns (Solid, Clean code, TDD, Design pattern, Unit Tests), to align my skills with the best standards that the market demands.
+Studying systems analysis and development and I have other courses on development.
 
-## Projetos
-- [Portfólio - Alacid Pamplona](https://www.alacidfotografia.com) - Um Portfólio para um fotografo, para demostrar seus ensaios e uma agenda para entrar em contato com ele. Tem um pequeno painel admin para que ele possa modificar a sua agenda.
+## Projects
+- [Portfolio - Alacid Pamplona](https://www.alacidfotografia.com) - A Portfolio for a photographer, to demonstrate his rehearsals and an agenda to get in touch with him. It has a small admin panel so he can modify his schedule.
 
-## Habilidades: linguagens, frameworks, bancos de dados, repositórios
+## Skills: languages, frameworks, databases, repositories.
 
 - PHP 
 - Laravel

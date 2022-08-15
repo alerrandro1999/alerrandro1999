@@ -5,7 +5,7 @@ Studying systems analysis and development and I have other courses on developmen
 ## Projects
 - [Portfolio - Alacid Pamplona](https://www.alacidfotografia.com) - A Portfolio for a photographer, to demonstrate his rehearsals and an agenda to get in touch with him. It has a small admin panel so he can modify his schedule.
 
-- [Package - Return Century](https://github.com/alerrandro1999/alerrandro-returncentury) - A simple PHP package to return the century of the year given
+- [Package - Return Century](https://github.com/alerrandro1999/alerrandro-returncentury) - A simple PHP package to return the century of the year given.
 
 ## Skills: languages, frameworks, databases, repositories.
 

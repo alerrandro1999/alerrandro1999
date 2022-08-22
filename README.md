@@ -7,7 +7,7 @@ Studying systems analysis and development and I have other courses on developmen
 
 - [Package - Return Century](https://github.com/alerrandro1999/alerrandro-returncentury) - A simple PHP package to return the century of the year given.
 
-- [Package - Return Dates9](https://github.com/alerrandro1999/alerrandro-returndate) - A simple package for Brazilian calendar date returns.
+- [Package - Return Dates](https://github.com/alerrandro1999/alerrandro-returndate) - A simple package for Brazilian calendar date returns.
 
 ## Skills: languages, frameworks, databases, repositories.
 

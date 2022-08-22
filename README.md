@@ -1,5 +1,5 @@
 ## Welcome
-Hi, my name is Alerandro and I'm a Brazilian backend developer, currently I study the PHP stack and all content related to it with more involvement. Study of Solid Development Patterns, Clean Code, TDD,Unit Tests), follow-up pattern, skills with the best standards that the market demands.
+Hi, my name is Alerandro and I'm a Brazilian backend developer, currently I study the PHP stack and all content related to it with more involvement. Study of Solid Development Patterns, Clean Code, TDD, Unit Tests), follow-up pattern, skills with the best standards that the market demands.
 Studying systems analysis and development and I have other courses on development.
 
 ## Projects

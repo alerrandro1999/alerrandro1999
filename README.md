@@ -3,7 +3,7 @@ Hi, my name is Alerandro and I'm a Brazilian backend developer, currently I stud
 Studying systems analysis and development and I have other courses on development.
 
 ## Projects
-- [Homepage - Portfolio ](https://alerrandrodev.tech/) - a personal website to promote myself as a developer, I used vue.js to develop and the deployment was carried out at hostinger 
+- [Homepage - Portfolio ](https://alerrandrodev.tech/) - A personal website to promote myself as a developer, I used vue.js to develop and the deployment was carried out at hostinger 
 
 - [Portfolio - Alacid Pamplona](https://www.alacidfotografia.com) - A Portfolio for a photographer, to demonstrate his rehearsals and an agenda to get in touch with him. It has a small admin panel so he can modify his schedule.
 

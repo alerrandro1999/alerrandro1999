@@ -41,7 +41,7 @@ Studying systems analysis and development and I have other courses on developmen
 
 <div align="center">
 
-[![alerrandro1999](https://github-readme-stats-sigma.vercel.app/api/top-langs/?username=alerrandro1999&hide=html,css,hack,scss,batchfile,javascript,ruby&layout=compact&theme=dark&langs_count=15&exclude_repo=emissor-de-carteira)](https://github.com/alerrandro1999)
+[![alerrandro1999](https://github-readme.vercel.app/api/top-langs/?username=alerrandro1999&hide=html,css,hack,scss,batchfile,javascript,ruby&layout=compact&theme=dark&langs_count=15&exclude_repo=emissor-de-carteira)](https://github.com/alerrandro1999)
 
 </div>
 

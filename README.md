@@ -41,7 +41,7 @@ Studying systems analysis and development and I have other courses on developmen
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alerrandro1999&langs_count=8)](https://github.com/alerrandro1999/github-readme-stats)
+[![alerrandro1999](https://github-readme-stats.vercel.app/api/top-langs/?username=alerrandro1999&hide=html&layout=compact=true&theme=default)](https://github.com/alerrandro1999/github-readme-stats)
 
 </div>
 

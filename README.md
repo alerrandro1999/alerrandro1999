@@ -1,6 +1,9 @@
 ## Welcome
-Hi, my name is Alerandro and I'm a Brazilian backend developer, currently I study the PHP stack and all content related to it with more involvement. Study of Solid Development Patterns, Clean Code, TDD, Unit Tests), follow-up pattern, skills with the best standards that the market demands.
-Studying systems analysis and development and I have other courses on development.
+Hello, my name is alerrandro I'm a full stack programmer, I have knowledge in some languages but I'm looking to become a specialist in PHP and its entire universe. I currently work with full stack development, being more active on mobile with flutter and dart.
+
+I study design patterns, clean code, SOLID, and testing.
+
+Looking for opportunities to apply my knowledge in new opportunities, mainly in PHP.
 
 [Homepage - Portfolio ](https://alerrandrodev.tech/) - A personal website to promote myself as a developer, I used vue.js to develop and the deployment was carried out at hostinger 
 

@@ -16,31 +16,13 @@ Studying systems analysis and development and I have other courses on developmen
 
 ## Skills: languages, frameworks, databases, repositories.
 
-- PHP 
-- Laravel
-- Symfony
-- Slim Framework
-- PSRs
-- PHPUnit
-- Composer
-- Delphi - Pascal
+- PHP / Laravel / Symfony / Slim Framework / PSRs / PHPUnit / Composer
+ 
+- HTML5 / CSS3 / Javascript / Vue.js
 
-###
-- HTML5
-- CSS3
-- Javascript
-- Vue.js
-- jQuery
-
-###
-- MySQL
-- SQL Server
-- SQLite
-
-###
-- Git Flow
-- GitLab
-- BitBucket
+- MySQL / SQL Server / SQLite / phpMyAdmin
+ 
+- Git Flow / GitLab / BitBucket
 
 <div align="center">
 

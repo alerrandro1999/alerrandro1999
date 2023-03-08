@@ -17,6 +17,8 @@ Studying systems analysis and development and I have other courses on developmen
 ## Skills: languages, frameworks, databases, repositories.
 
 - PHP / Laravel / Symfony / Slim Framework / PSRs / PHPUnit / Composer
+
+- Fluttter / Dart / Firebase
  
 - HTML5 / CSS3 / Javascript / Vue.js
 

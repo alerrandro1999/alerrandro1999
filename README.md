@@ -20,6 +20,7 @@ Looking for opportunities to apply my knowledge in new opportunities, mainly in 
 ## Skills: languages, frameworks, databases, repositories.
 
 - PHP / Laravel / Symfony / Slim Framework / PHP-FIG / PHPUnit / Composer 
+
 knowledge in language and universe, using Xampp or native server.
 Database connection, REST API, cURL, object orientation, best practices, community recommendations
 

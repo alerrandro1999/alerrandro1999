@@ -1,9 +1,9 @@
 ## Welcome
-Hello, my name is alerrandro I'm a full stack programmer, I have knowledge in some languages but I'm looking to become a specialist in PHP and its entire universe. I currently work with full stack development, being more active on mobile with flutter and dart.
+Hello, my name is Alerrandro and I'm a Full Stack programmer. I have knowledge in several programming languages, but currently I'm focused on becoming an expert in PHP and its universe. With experience in Full Stack development, I currently work with mobile development using flutter and dart.
 
-I study design patterns, clean code, SOLID, and testing.
+I've been investing my time studying design patterns, clean code, SOLID, and testing, as I know these are key factors in creating quality, maintainable code.
 
-Looking for opportunities to apply my knowledge in new opportunities, mainly in PHP.
+I look for new opportunities to apply my knowledge, especially in PHP. With my skills in Full Stack programming and my experience in mobile development, I believe I can add value in web application projects.
 
 [Homepage - Portfolio ](https://alerrandrodev.tech/) - A personal website to promote myself as a developer, I used vue.js to develop and the deployment was carried out at hostinger 
 
@@ -45,3 +45,6 @@ Looking for opportunities to apply my knowledge in new opportunities, mainly in 
   <a href="https://www.linkedin.com/in/alerrandro-borges-b45a6a1a1/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+
+
+ 

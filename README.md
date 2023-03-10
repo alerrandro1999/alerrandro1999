@@ -21,7 +21,7 @@ Looking for opportunities to apply my knowledge in new opportunities, mainly in 
 
 - PHP / Laravel / Symfony / Slim Framework / PHP-FIG / PHPUnit / Composer 
 
-> knowledge in language and universe, using Xampp or native server, database connection, REST API, cURL, object orientation, best practices, community recommendations
+> I have knowledge in the PHP language and its universe. I have skills in dependency management using Composer, working with database using PDO, performing requests using cURL, MVC architecture pattern and working with templates.
 
 - Fluttter / Dart / Firebase
  

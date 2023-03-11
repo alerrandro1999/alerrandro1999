@@ -39,7 +39,7 @@ I look for new opportunities to apply my knowledge, especially in PHP. With my s
 
 
 
-  <a href="alerrandrokaton@gmail.com" target="_blank">
+  <a href="mailto:alerrandrokaton@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/alerrandro-borges-b45a6a1a1/" target="_blank">

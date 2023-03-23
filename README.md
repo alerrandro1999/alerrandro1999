@@ -24,6 +24,8 @@ I look for new opportunities to apply my knowledge, especially in PHP. With my s
 > I have skills in PHP, Laravel, Symfony, Slim Framework, PHP-FIG, PHPUnit and Composer. With these technologies, I can develop robust and scalable web applications, ensuring quality and efficiency throughout the development process.
 
 - Fluttter / Dart / Firebase
+
+> I'm working with Flutter, Dart and Firebase, although I'm still improving my knowledge in these technologies. With Flutter and Dart, I can efficiently and scalably develop mobile apps for iOS and Android using a modern and practical development toolset.
  
 - HTML5 / CSS3 / Javascript / Vue.js
 

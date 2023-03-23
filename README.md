@@ -27,6 +27,8 @@ I look for new opportunities to apply my knowledge, especially in PHP. With my s
  
 - HTML5 / CSS3 / Javascript / Vue.js
 
+> I have skills in HTML, CSS, and Javascript, which are the markup, style, and programming languages ​​that make up the foundation of the modern web. With HTML, I can create web page structures, while with CSS, I can style those structures to create a visually appealing and consistent look. With Javascript, I can add dynamic and interactive functionality to web pages, making them more responsive and engaging. My HTML, CSS and Javascript skills allow me to create attractive and functional web pages that offer a great user experience. 
+
 - MySQL / SQL Server / SQLite / phpMyAdmin
 
 > I have skills in MySQL, SQL Server, SQLite and phpMyAdmin which are relational database management systems and administration tools. I know how to interact with databases using SQL, model and optimize queries to improve performance, and apply security and database management best practices. With my experience in phpMyAdmin, I can manage databases through a user-friendly GUI. I can help companies manage their data efficiently and securely using my skills in various database technologies.

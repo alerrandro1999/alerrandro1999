@@ -28,6 +28,8 @@ I look for new opportunities to apply my knowledge, especially in PHP. With my s
 - HTML5 / CSS3 / Javascript / Vue.js
 
 - MySQL / SQL Server / SQLite / phpMyAdmin
+
+> I have skills in MySQL, SQL Server, SQLite and phpMyAdmin which are relational database management systems and administration tools. I know how to interact with databases using SQL, model and optimize queries to improve performance, and apply security and database management best practices. With my experience in phpMyAdmin, I can manage databases through a user-friendly GUI. I can help companies manage their data efficiently and securely using my skills in various database technologies.
  
 - Git Flow / GitLab / BitBucket
 

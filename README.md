@@ -27,7 +27,7 @@ I look for new opportunities to apply my knowledge, especially in PHP. With my s
 
 > I'm working with Flutter, Dart and Firebase, although I'm still improving my knowledge in these technologies. With Flutter and Dart, I can efficiently and scalably develop mobile apps for iOS and Android using a modern and practical development toolset.
  
-- HTML5 / CSS3 / Javascript / Vue.js
+- HTML5 / CSS3 / Javascript
 
 > I have skills in HTML, CSS, and Javascript, which are the markup, style, and programming languages that make up the foundation of the modern web. With HTML, I can create web page structures, while with CSS, I can style those structures to create a visually appealing and consistent look. With Javascript, I can add dynamic and interactive functionality to web pages, making them more responsive and engaging. My HTML, CSS and Javascript skills allow me to create attractive and functional web pages that offer a great user experience. 
 

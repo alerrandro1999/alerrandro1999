@@ -21,19 +21,21 @@ I look for new opportunities to apply my knowledge, especially in PHP. With my s
 
 - PHP / Laravel / Symfony / Slim Framework / PHP-FIG / PHPUnit / Composer 
 
-> I have knowledge in the PHP language and its universe. I have skills in dependency management using Composer, working with database using PDO, performing requests using cURL, MVC architecture pattern and working with templates.
+> I have skills in PHP, Laravel, Symfony, Slim Framework, PHP-FIG, PHPUnit and Composer. With these technologies, I can develop robust and scalable web applications, ensuring quality and efficiency throughout the development process.
 
 - Fluttter / Dart / Firebase
  
 - HTML5 / CSS3 / Javascript / Vue.js
 
-> I have skills in HTML, CSS, and Javascript, which are the markup, style, and programming languages ​​that make up the foundation of the modern web. With HTML, I can create web page structures, while with CSS, I can style those structures to create a visually appealing and consistent look. With Javascript, I can add dynamic and interactive functionality to web pages, making them more responsive and engaging. My HTML, CSS and Javascript skills allow me to create attractive and functional web pages that offer a great user experience. 
+> I have skills in HTML, CSS, and Javascript, which are the markup, style, and programming languages that make up the foundation of the modern web. With HTML, I can create web page structures, while with CSS, I can style those structures to create a visually appealing and consistent look. With Javascript, I can add dynamic and interactive functionality to web pages, making them more responsive and engaging. My HTML, CSS and Javascript skills allow me to create attractive and functional web pages that offer a great user experience. 
 
 - MySQL / SQL Server / SQLite / phpMyAdmin
 
 > I have skills in MySQL, SQL Server, SQLite and phpMyAdmin which are relational database management systems and administration tools. I know how to interact with databases using SQL, model and optimize queries to improve performance, and apply security and database management best practices. With my experience in phpMyAdmin, I can manage databases through a user-friendly GUI. I can help companies manage their data efficiently and securely using my skills in various database technologies.
  
 - Git Flow / GitLab / BitBucket
+
+> I have skills in Git Flow, GitLab and BitBucket, which are popular Git-based software version control management platforms. With these technologies, I can create code repositories, track source code changes, work together on different branches, and securely merge code. Git Flow is a work methodology that helps to keep a clearer organization of the development flow. GitLab and BitBucket are platforms that offer additional features such as continuous integration, automated testing, continuous deployment, and team collaboration. With my Git Flow, GitLab and BitBucket skills, I can contribute to team software project management, improving efficiency and quality of delivered code.
 
 <div align="center">
 

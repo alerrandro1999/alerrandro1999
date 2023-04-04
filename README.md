@@ -41,7 +41,7 @@ I look for new opportunities to apply my knowledge, especially in PHP. With my s
 
 <div align="center">
 
-[![alerrandro1999](https://github-readme-stats.vercel.app/api/top-langs/?username=alerrandro1999&hide=html,css,scss,ruby,hack,batchfile,shell,pascal,blade,twig,cmake,swift,c++,go,kotlin,objective-c&layout=compact&theme=default&langs_count=15)](https://github.com/anuraghazra/github-readme-stats)
+[![alerrandro1999](https://github-readme-stats.vercel.app/api/top-langs/?username=alerrandro1999&hide=html,css,scss,ruby,hack,batchfile,shell,pascal,blade,twig,cmake,swift,c++,go,kotlin,javascript,objective-c&layout=compact&theme=default&langs_count=15)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 

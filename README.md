@@ -46,7 +46,7 @@ I look for new opportunities to apply my knowledge, especially in PHP. With my s
 </div>
 
 <div align="center">
-  <img src="https://api.daily.dev/devcards/94e783b68c324d85b66c9d8998357081.png?r=q8d" width="200" height="350" />
+  <img src="https://api.daily.dev/devcards/94e783b68c324d85b66c9d8998357081.png?r=q8d" width="200" height="380" />
 </div>
 
 <a href="mailto:alerrandrokaton@gmail.com" target="_blank">

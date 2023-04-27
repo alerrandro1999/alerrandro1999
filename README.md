@@ -54,7 +54,7 @@ I look for new opportunities to apply my knowledge, especially in PHP. With my s
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 <div align="center">
-  <img href="https://api.daily.dev/devcards/94e783b68c324d85b66c9d8998357081.png?r=q8d" />
+  <img src="https://api.daily.dev/devcards/94e783b68c324d85b66c9d8998357081.png?r=q8d" />
 </div>
 
  

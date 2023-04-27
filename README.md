@@ -53,6 +53,6 @@ I look for new opportunities to apply my knowledge, especially in PHP. With my s
   <a href="https://www.linkedin.com/in/alerrandro-borges-b45a6a1a1/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-
+https://api.daily.dev/devcards/94e783b68c324d85b66c9d8998357081.png?r=q8d
 
  

@@ -45,16 +45,15 @@ I look for new opportunities to apply my knowledge, especially in PHP. With my s
 
 </div>
 
+<div align="center">
+  <img src="https://api.daily.dev/devcards/94e783b68c324d85b66c9d8998357081.png?r=q8d" width="100" height="150" />
+</div>
 
-
-  <a href="mailto:alerrandrokaton@gmail.com" target="_blank">
+<a href="mailto:alerrandrokaton@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/alerrandro-borges-b45a6a1a1/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-<div align="center">
-  <img src="https://api.daily.dev/devcards/94e783b68c324d85b66c9d8998357081.png?r=q8d" width="150" height="150" />
-</div>
 
  

@@ -13,7 +13,7 @@ I look for new opportunities to apply my knowledge, especially in PHP. With my s
 
 - [Homepage - Portfolio ](https://alerrandrodev.tech/) - A personal website to promote myself as a developer, I used vue.js to develop and the deployment was carried out at hostinger.
 
-- [Landing Page - Weellu ](https://home.weellu.com/) - A landing page to demonstrate the features of the bemlu application. 
+- [Landing Page - Weellu ](https://home.weellu.com/) - A landing page to demonstrate the features of the weellu application. 
 
 <br/>
 

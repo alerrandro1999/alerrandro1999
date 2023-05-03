@@ -19,9 +19,11 @@ I look for new opportunities to apply my knowledge, especially in PHP. With my s
 
 ## Package Composer
 
-- [Package - Return Century](https://github.com/alerrandro1999/alerrandro-returncentury) - A simple PHP package to return the century of the year given.
+- [Package - Return Century](https://packagist.org/packages/alerrandro/returncentury) - A simple PHP package to return the century of the year given.
 
-- [Package - Return Dates](https://github.com/alerrandro1999/alerrandro-returndate) - A simple package for Brazilian calendar date returns.
+- [Package - Return Dates](https://packagist.org/packages/alerrandro/returndate) - A simple package for Brazilian calendar date returns.
+
+- [Package - Validation and regex](https://packagist.org/packages/alerrandro/validador-e-regex) - A package for validating CPF/CNPJ and some regex.
 
 <br/>
 

@@ -9,23 +9,25 @@ I look for new opportunities to apply my knowledge, especially in PHP. With my s
 
 ## Projects in production 
 
-- [Portfolio - Alacid Pamplona](https://www.alacidfotografia.com) - A Portfolio for a photographer, to demonstrate his rehearsals and an agenda to get in touch with him. It has a small admin panel so he can modify his schedule.
+- [Portfolio - Alacid Pamplona](https://www.alacidfotografia.com?target="_blank) - A Portfolio for a photographer, to demonstrate his rehearsals and an agenda to get in touch with him. It has a small admin panel so he can modify his schedule.
 
- - [Homepage - Portfolio ](https://alerrandrodev.tech/) - A personal website to promote myself as a developer, I used vue.js to develop and the deployment was carried out at hostinger 
+- [Homepage - Portfolio ](https://alerrandrodev.tech?target="_blank) - A personal website to promote myself as a developer, I used vue.js to develop and the deployment was carried out at hostinger.
+
+- [Landing Page - Weellu ](https://home.weellu.com?target="_blank) - A landing page to demonstrate the features of the bemlu application. 
 
 <br/>
 
 ## Package Composer
 
-- [Package - Return Century](https://github.com/alerrandro1999/alerrandro-returncentury) - A simple PHP package to return the century of the year given.
+- [Package - Return Century](https://github.com/alerrandro1999/alerrandro-returncentury?target="_blank) - A simple PHP package to return the century of the year given.
 
-- [Package - Return Dates](https://github.com/alerrandro1999/alerrandro-returndate) - A simple package for Brazilian calendar date returns.
+- [Package - Return Dates](https://github.com/alerrandro1999/alerrandro-returndate?target="_blank) - A simple package for Brazilian calendar date returns.
 
 <br/>
 
 ## Articles
 
-- [PHP - Typed class constants](https://medium.com/@alerrandrokaton/php-typed-class-constants-d40eac11dbf5)
+- [PHP - Typed class constants](https://medium.com/@alerrandrokaton/php-typed-class-constants-d40eac11dbf5?target="_blank)
 
 <br/>
 

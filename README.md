@@ -64,7 +64,7 @@ I look for new opportunities to apply my knowledge, especially in PHP. With my s
 
 
 <div align="center">
-  <img src="https://api.daily.dev/devcards/94e783b68c324d85b66c9d8998357081.png?r=lxo" width="200" height="380" />
+  <img src="https://api.daily.dev/devcards/94e783b68c324d85b66c9d8998357081.png?r=e4q" width="250" height="380" />
 </div>
 
 <br/>

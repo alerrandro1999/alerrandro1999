@@ -44,7 +44,7 @@ I look for new opportunities to apply my knowledge, especially in PHP. With my s
 
 - PHP / Laravel / Symfony / Slim Framework / PHP-FIG / PHPUnit / Composer 
 
-- Fluttter / Dart
+- Flutter / Dart
 
 - HTML5 / CSS3 / Javascript
 

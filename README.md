@@ -1,9 +1,5 @@
 ## Welcome
-Hello, my name is Alerrandro and I'm a Full Stack programmer. I have knowledge in several programming languages, but currently I'm focused on becoming an expert in PHP and its universe. With experience in Full Stack development, I currently work with mobile development using flutter and dart.
-
-I've been investing my time studying design patterns, clean code, SOLID, and testing, as I know these are key factors in creating quality, maintainable code.
-
-I look for new opportunities to apply my knowledge, especially in PHP. With my skills in Full Stack programming and my experience in mobile development, I believe I can add value in web application projects.
+As a developer, I currently have experience in mobile development using the Dart language and the Flutter SDK. Our app has a positive impact on more than 400 users from 10 companies. My main expertise is in web development using the PHP language, exploring its full range of frameworks, scopes and standards.
 
 <br/>
 
@@ -11,12 +7,7 @@ I look for new opportunities to apply my knowledge, especially in PHP. With my s
 
 - [Portfolio - Alacid Pamplona](https://www.alacidfotografia.com) - A Portfolio for a photographer, to demonstrate his rehearsals and an agenda to get in touch with him. It has a small admin panel so he can modify his schedule.
 
-- [Homepage - Portfolio ](https://alerrandrodev.tech) - A personal website to promote myself as a developer, I used vue.js to develop and the deployment was carried out at hostinger.
-
-- [Landing Page - Weellu ](https://home.weellu.com) - A landing page to demonstrate the features of the weellu application. 
-
-- [Image converter ascii  ](https://imageconverterascii.online) - An image to ascii art converter.
-
+- [Landing Page - Weellu ](https://easygestao.tech/) - A landing page to demonstrate the capabilities of a business management software company.
 
 
 <br/>

@@ -35,11 +35,11 @@ As a developer, I currently have experience in mobile development using the Dart
 
 - PHP / Laravel / Symfony / Slim Framework / PHP-FIG / PHPUnit / Composer 
 
-- Flutter / Dart
+- Flutter / Dart / Android Studio
 
-- HTML5 / CSS3 / Javascript
+- HTML5 / CSS3 / Javascript / Bootstrap / jQuery / Tailwind / React
 
-- MySQL / SQL Server / SQLite / Firebase
+- MySQL / SQL Server / SQLite / MongoDB
 
 - Git / GitHub / Git Flow / GitLab / BitBucket
 

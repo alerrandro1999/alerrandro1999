@@ -7,7 +7,7 @@ As a developer, I currently have experience in mobile development using the Dart
 
 - [Portfolio - Alacid Pamplona](https://www.alacidfotografia.com) - A Portfolio for a photographer, to demonstrate his rehearsals and an agenda to get in touch with him. It has a small admin panel so he can modify his schedule.
 
-- [Landing Page - Weellu ](https://easygestao.tech/) - A landing page to demonstrate the capabilities of a business management software company.
+- [Landing Page - Easy ](https://easygestao.tech/) - A landing page to demonstrate the capabilities of a business management software company.
 
 
 <br/>
